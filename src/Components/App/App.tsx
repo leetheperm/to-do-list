@@ -1,7 +1,7 @@
 import React from 'react';
 import { ToDoItems } from "../ToDoItmes/ToDoItems";
 import { ThingsDone } from "../ThingsDone/ThingsDone";
-// import './App.css';
+import './App.css';
 
 class App extends React.Component {
   constructor(props: any) {
