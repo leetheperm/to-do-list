@@ -6,7 +6,7 @@ import './App.css';
 class App extends React.Component {
   constructor(props: any) {
     super(props);
-    this.state.wrongDudu = {
+this.state = {
        toDoItems: [],
        thingsDone: []
     }
